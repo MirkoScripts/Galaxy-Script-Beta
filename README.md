@@ -1,13 +1,19 @@
-# 🌌 Galaxy Script — BETA v1.1
+<div align="center">
 
-> A dark-themed Roblox hub script with a Teleport system, floating mini tab, and more coming soon.
->
-> **Made by [Mirko-Scripts](https://github.com/MirkoScripts)** · Any other copies are **fake or virus**.
+<img src="./assets/icon.svg" alt="Galaxy Script" width="112" height="112" />
+
+# Galaxy Script — BETA v1.1
+
+**A dark-themed Roblox hub script with a Teleport system, floating mini tab, and more coming soon.**
+
+Made by [Mirko-Scripts](https://github.com/MirkoScripts) · Any other copies are **fake or virus**.
 
 [![Version](https://img.shields.io/badge/version-v1.1%20BETA-9c5aff?style=flat-square)](#)
 [![Status](https://img.shields.io/badge/status-active-5adc8c?style=flat-square)](#)
 [![Platform](https://img.shields.io/badge/platform-Roblox-ff9632?style=flat-square)](#)
 [![License](https://img.shields.io/badge/license-MIT-3e345e?style=flat-square)](#)
+
+</div>
 
 ---
 
@@ -25,4 +31,10 @@
 
 ---
 
-## 📸 Preview
+## 🖼️ Preview
+
+<div align="center">
+  <img src="./assets/icon.svg" alt="Galaxy Script icon" width="64" height="64" />
+  <br/>
+  <sub><em>In-game toggle button — the G icon</em></sub>
+</div>
